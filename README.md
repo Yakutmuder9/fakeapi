@@ -1,2 +1,2 @@
-# fakeapi
+# Amazon clone
 new trial
